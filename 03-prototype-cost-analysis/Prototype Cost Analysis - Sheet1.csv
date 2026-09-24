@@ -1,0 +1,13 @@
+Item Name,Category,Quantity,Unit Price (£),Total Price (£)
+ESP32 Microcontroller,Electronics,1,8,8
+Ultrasonic Sensor,Electronics,2,3.5,7
+Custom Aluminium Bracket,Mechanical,1,15,15
+3D Printed Enclosure,Mechanical,1,5,5
+Wiring & Connectors,Consumables,1,4,4
+Subtotal,,,,39
+,,,,
+ASSEMBLY HOURS:,2,,,
+HOURLY RATE(£):,15,,,
+LABOUR COST:,30,,,
+CONTINGENCY(10%):,3.9,,,
+TOTAL PROTOTYPE COST:,72.9,,,
